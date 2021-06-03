@@ -1,0 +1,32 @@
+body{
+  font-family: "source sans pro", sans-serif;
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-family: 'Fjalla One', sans-serif;
+  font-weight: normal;
+  /* font-style: italic; */
+}
+
+h1{
+  line-height: 1.5;
+  font-size: 40px;
+  letter-spacing: -.2px;
+  color: rgb(0, 0, 0);
+  margin: 0px;
+  text-align: center;
+  /* margin: 100px 150px 70px 30px; */
+  
+  /* text-transform: uppercase; es mayuscula
+  text-decoration: underline; subrayado */
+}
+
+p{
+  text-align: center;
+}
